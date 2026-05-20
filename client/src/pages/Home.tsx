@@ -8,8 +8,8 @@ export default function Home() {
   // Simplified SEO for now
   useSEO({
     ...defaultSEOConfigs.home,
-    title: "Fair Deal | Quality Services by Arif Najar",
-    description: "Welcome to Fair Deal, run by Arif Najar. We provide top-quality services and products with a commitment to excellence.",
+    title: "Fair Deal | Your One-Stop Shop for Essentials",
+    description: "Welcome to Fair Deal, run by Arif Najar. We provide top-quality food, clothes, cosmetics, jewelry, and more.",
   });
 
   const services = [
@@ -40,15 +40,15 @@ export default function Home() {
               Fair Deal
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground mb-2 font-light animate-fade-in-delay-1">
-              Excellence in Every Deal
+              Everything You Need, All in One Place
             </p>
             <p className="text-base md:text-lg text-muted-foreground mb-8 max-w-2xl mx-auto animate-fade-in-delay-2">
-              Welcome to Fair Deal, your trusted destination for quality services and products. Led by Arif Najar, we are dedicated to providing the best value and experience to our customers.
+              From fresh food and stylish clothes to premium cosmetics and elegant jewelry. Led by Arif Najar, we bring you the best quality essentials with a commitment to fairness and excellence.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-in-delay-3">
-              <Link href="/about">
+              <Link href="/shop">
                 <Button size="lg" className="bg-accent hover:bg-accent/90 text-accent-foreground">
-                  Learn About Us
+                  Shop Now
                 </Button>
               </Link>
               <Link href="/contact">
@@ -69,19 +69,22 @@ export default function Home() {
       <section className="py-16 md:py-24 bg-card">
         <div className="container mx-auto px-4">
           <h2 className="text-4xl md:text-5xl font-serif font-bold text-center text-foreground mb-12">
-            Our Services
+            Shop by Category
           </h2>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {services.map((service, index) => (
-              <div key={index} className="bg-background p-8 rounded-xl border border-border hover:shadow-lg transition-all duration-300 text-center">
-                <div className="flex justify-center mb-6">
-                  {service.icon}
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+            {[
+              { name: "Food", icon: "🍎", desc: "Fresh & Organic" },
+              { name: "Clothes", icon: "👕", desc: "Stylish & Comfortable" },
+              { name: "Cosmetics", icon: "💄", desc: "Premium Beauty" },
+              { name: "Jewelry", icon: "💎", desc: "Elegant & Timeless" }
+            ].map((cat) => (
+              <Link key={cat.name} href={`/shop`}>
+                <div className="bg-background p-8 rounded-xl border border-border hover:shadow-lg transition-all duration-300 text-center cursor-pointer group">
+                  <div className="text-6xl mb-6 group-hover:scale-110 transition-transform">{cat.icon}</div>
+                  <h3 className="text-2xl font-serif font-bold mb-2">{cat.name}</h3>
+                  <p className="text-muted-foreground">{cat.desc}</p>
                 </div>
-                <h3 className="text-2xl font-serif font-bold mb-4">{service.title}</h3>
-                <p className="text-muted-foreground">
-                  {service.description}
-                </p>
-              </div>
+              </Link>
             ))}
           </div>
         </div>

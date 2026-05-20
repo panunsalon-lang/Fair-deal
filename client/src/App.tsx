@@ -7,6 +7,7 @@ import { ThemeProvider } from "./contexts/ThemeContext";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
+import Shop from "./pages/Shop";
 
 import Header from "./components/Header";
 import Footer from "./components/Footer";
@@ -17,6 +18,7 @@ function Router() {
     <Switch>
       {/* Public Routes */}
       <Route path={"/"} component={Home} />
+      <Route path={"/shop"} component={Shop} />
       <Route path={"/about"} component={About} />
       <Route path={"/contact"} component={Contact} />
       
