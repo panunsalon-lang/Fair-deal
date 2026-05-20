@@ -17,7 +17,7 @@ export default function Header() {
   const socialLinks = [
     {
       name: "WhatsApp",
-      href: "https://wa.me/7006630873",
+      href: "https://wa.me/9906515680",
       icon: <MessageCircle size={20} />,
     },
   ];
@@ -64,7 +64,7 @@ export default function Header() {
                 {link.icon}
               </a>
             ))}
-            <a href="tel:7006630873">
+            <a href="tel:9906515680">
               <Button variant="outline" size="sm" className="gap-2">
                 <Phone size={16} />
                 Call Us
@@ -113,7 +113,7 @@ export default function Header() {
                   </a>
                 ))}
               </div>
-              <a href="tel:7006630873">
+              <a href="tel:9906515680">
                 <Button size="sm" className="gap-2">
                   <Phone size={16} />
                   Call Us

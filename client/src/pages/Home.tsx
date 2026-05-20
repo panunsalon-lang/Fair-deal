@@ -125,13 +125,13 @@ export default function Home() {
             Contact us today to discuss your needs or learn more about how we can help you.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="tel:7006630873">
+            <a href="tel:9906515680">
               <Button size="lg" variant="secondary" className="gap-2">
                 <Phone size={20} />
-                Call: +91 7006630873
+                Call: +91 9906515680
               </Button>
             </a>
-            <a href="https://wa.me/7006630873" target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/9906515680" target="_blank" rel="noopener noreferrer">
               <Button size="lg" variant="secondary" className="gap-2">
                 <MessageCircle size={20} />
                 WhatsApp Us

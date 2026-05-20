@@ -56,10 +56,10 @@ Your Royal Silver jewelry retail website is now **fully functional and productio
 - ✅ **Sticky Header** - Navigation always accessible
 
 ### **Contact & Integration**
-- ✅ **WhatsApp Button** - Floating button on all pages (7006630873)
+- ✅ **WhatsApp Button** - Floating button on all pages (9906515680)
 - ✅ **WhatsApp CTA** - Pre-filled message: "Hello, I'm interested in your jewelry collection."
 - ✅ **Social Links** - Instagram, Facebook, WhatsApp in header and footer
-- ✅ **Contact Number** - 7006630873 displayed throughout site
+- ✅ **Contact Number** - 9906515680 displayed throughout site
 - ✅ **Newsletter Signup** - Email subscription section
 
 ---
@@ -210,7 +210,7 @@ Edit `client/src/index.css`:
 ```
 
 ### **Update Contact Information**
-1. **Phone Number**: Search for `7006630873` in codebase
+1. **Phone Number**: Search for `9906515680` in codebase
 2. **Social Links**: Update in `Header.tsx` and `Footer.tsx`
 3. **Email**: Update in `Footer.tsx` and `Contact.tsx`
 
@@ -234,8 +234,8 @@ Edit `client/src/index.css`:
 ## 📞 **Support & Contact**
 
 - **Business**: Royal Silver
-- **Phone**: 7006630873
-- **WhatsApp**: [Chat Now](https://wa.me/7006630873?text=Hello%2C%20I%27m%20interested%20in%20your%20jewelry%20collection.)
+- **Phone**: 9906515680
+- **WhatsApp**: [Chat Now](https://wa.me/9906515680?text=Hello%2C%20I%27m%20interested%20in%20your%20jewelry%20collection.)
 - **Instagram**: [@royalsilver](https://instagram.com)
 - **Facebook**: [Royal Silver](https://facebook.com)
 

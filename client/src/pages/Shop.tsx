@@ -92,7 +92,7 @@ export default function Shop() {
                   <ShoppingCart size={16} />
                   Add
                 </Button>
-                <a href={`https://wa.me/7006630873?text=I'm interested in ${product.name}`} target="_blank" rel="noopener noreferrer">
+                <a href={`https://wa.me/9906515680?text=I'm interested in ${product.name}`} target="_blank" rel="noopener noreferrer">
                   <Button variant="outline" size="icon">
                     <MessageCircle size={18} className="text-green-600" />
                   </Button>

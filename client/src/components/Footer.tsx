@@ -50,12 +50,12 @@ export default function Footer() {
             </h4>
             <ul className="space-y-2 text-muted-foreground">
               <li>
-                <a href="tel:7006630873" className="hover:text-accent transition-colors">
-                  +91 7006630873
+                <a href="tel:9906515680" className="hover:text-accent transition-colors">
+                  +91 9906515680
                 </a>
               </li>
               <li>
-                <a href="https://wa.me/7006630873" className="hover:text-accent transition-colors">
+                <a href="https://wa.me/9906515680" className="hover:text-accent transition-colors">
                   WhatsApp
                 </a>
               </li>

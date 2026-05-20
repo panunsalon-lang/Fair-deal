@@ -232,8 +232,8 @@ pnpm test
 ## Contact Information
 
 **Royal Silver**
-- Phone: +91 7006630873
-- WhatsApp: https://wa.me/7006630873
+- Phone: +91 9906515680
+- WhatsApp: https://wa.me/9906515680
 - Social Media: Instagram, Facebook
 
 ## Branding Guidelines
@@ -250,7 +250,7 @@ pnpm test
 
 ### Brand Name
 - Always use "Royal Silver" (not "Royal silver" or variations)
-- Contact number: 7006630873 (always with country code +91 for international)
+- Contact number: 9906515680 (always with country code +91 for international)
 
 ## Features Checklist
 
@@ -289,7 +289,7 @@ To deploy updates:
 3. No database migration required (categories are stored as strings)
 
 **Change contact number**
-- Update `7006630873` in:
+- Update `9906515680` in:
   - `Header.tsx`
   - `Footer.tsx`
   - `Contact.tsx`
@@ -324,5 +324,5 @@ All rights reserved. Royal Silver © 2026.
 ## Contact
 
 For technical support or inquiries, contact:
-- Phone: +91 7006630873
-- WhatsApp: https://wa.me/7006630873
+- Phone: +91 9906515680
+- WhatsApp: https://wa.me/9906515680

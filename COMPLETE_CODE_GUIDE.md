@@ -281,7 +281,7 @@ CREATE TABLE subscribers (
 - Contact form
 - Map integration
 - Social media links
-- Phone number: +91 7006630873
+- Phone number: +91 9906515680
 - Email contact
 
 #### Checkout (`/checkout`)
@@ -626,7 +626,7 @@ pnpm test
 ## 📞 Support & Contact
 
 **Royal Silver Contact:**
-- Phone: +91 7006630873
+- Phone: +91 9906515680
 - WhatsApp: Available on all pages
 - Social Media: Links in header and footer
 

@@ -192,7 +192,7 @@ The database has been seeded with 6 sample products across all categories:
 ## Support
 
 For technical issues:
-- Phone: +91 7006630873
-- WhatsApp: https://wa.me/7006630873
+- Phone: +91 9906515680
+- WhatsApp: https://wa.me/9906515680
 
 Refer to README.md and SETUP_GUIDE.md for additional documentation.

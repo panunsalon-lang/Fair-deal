@@ -112,7 +112,7 @@ export function generateOrganizationStructuredData() {
     contactPoint: {
       '@type': 'ContactPoint',
       contactType: 'Customer Service',
-      telephone: '+91-7006630873',
+      telephone: '+91-9906515680',
     }
   };
 }

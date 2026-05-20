@@ -41,7 +41,7 @@
 - [x] Update browser tab title to "Royal Silver"
 - [x] Add social media links (Instagram, Facebook, WhatsApp) in header and footer
 - [x] Update copyright line to "© Royal Silver. All Rights Reserved."
-- [x] Update contact number to 7006630873 throughout site
+- [x] Update contact number to 9906515680 throughout site
 
 ## Sample Data & Testing
 - [x] Seed database with sample products (Couple Bands, Rings, Royal Silver collection)

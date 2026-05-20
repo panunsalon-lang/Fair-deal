@@ -41,7 +41,7 @@ This document provides a comprehensive guide to all features implemented in the 
 - **Product Information**: Full description, price, category, and availability
 - **Add to Cart**: Quantity selector and cart functionality
 - **WhatsApp Enquiry**: Direct messaging with pre-filled product name
-- **Call Button**: Direct phone link to +91 7006630873
+- **Call Button**: Direct phone link to +91 9906515680
 
 ### Shopping Cart
 - **Local Storage**: Cart persists across browser sessions
@@ -172,7 +172,7 @@ This document provides a comprehensive guide to all features implemented in the 
 - **Header**: Sticky navigation with logo and menu
 - **Footer**: Contact info, social links, copyright
 - **Social Links**: Instagram, Facebook, WhatsApp
-- **Contact Number**: +91 7006630873 throughout site
+- **Contact Number**: +91 9906515680 throughout site
 - **WhatsApp Button**: Floating button on all pages with pre-filled message
 
 ---
@@ -370,8 +370,8 @@ This document provides a comprehensive guide to all features implemented in the 
 
 ## SUPPORT & CONTACT
 
-- **Phone**: +91 7006630873
-- **WhatsApp**: +91 7006630873
+- **Phone**: +91 9906515680
+- **WhatsApp**: +91 9906515680
 - **Email**: Contact form on `/contact` page
 - **Social Media**: Links in header and footer
 

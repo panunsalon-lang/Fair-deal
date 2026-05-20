@@ -170,7 +170,7 @@ Edit `client/src/index.css`:
 
 ### Change Contact Number
 
-Search for `7006630873` and replace with your number in:
+Search for `9906515680` and replace with your number in:
 - `client/src/components/WhatsAppButton.tsx`
 - `client/src/components/Header.tsx`
 - `client/src/components/Footer.tsx`

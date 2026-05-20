@@ -177,7 +177,7 @@ Test the website on different screen sizes:
 ## Branding Verification
 
 - [ ] Brand name "Royal Silver" appears in header and footer
-- [ ] Contact number 7006630873 is displayed in header, footer, and contact page
+- [ ] Contact number 9906515680 is displayed in header, footer, and contact page
 - [ ] Gold color (#D4AF37) is used for accents and primary buttons
 - [ ] Playfair Display font is used for headings
 - [ ] Montserrat font is used for body text
@@ -205,7 +205,7 @@ Test the website on different screen sizes:
 - Ensure product images are valid URLs
 
 ### WhatsApp Links Not Working
-- Verify phone number is correct: 7006630873
+- Verify phone number is correct: 9906515680
 - Check that WhatsApp is installed on the device
 - Ensure browser allows opening external links
 
@@ -240,7 +240,7 @@ After testing:
 ## Support
 
 For technical issues or questions:
-- Phone: +91 7006630873
-- WhatsApp: https://wa.me/7006630873
+- Phone: +91 9906515680
+- WhatsApp: https://wa.me/9906515680
 
 Refer to the main README.md for additional documentation.

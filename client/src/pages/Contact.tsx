@@ -35,10 +35,10 @@ export default function Contact() {
                   <div>
                     <h3 className="text-lg font-semibold text-foreground mb-1">Phone</h3>
                     <a
-                      href="tel:7006630873"
+                      href="tel:9906515680"
                       className="text-accent hover:underline text-lg font-semibold"
                     >
-                      +91 7006630873
+                      +91 9906515680
                     </a>
                     <p className="text-muted-foreground text-sm mt-1">
                       Call us for immediate assistance.
@@ -54,7 +54,7 @@ export default function Contact() {
                   <div>
                     <h3 className="text-lg font-semibold text-foreground mb-1">WhatsApp</h3>
                     <a
-                      href="https://wa.me/7006630873"
+                      href="https://wa.me/9906515680"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-accent hover:underline text-lg font-semibold"
